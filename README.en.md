@@ -2,6 +2,10 @@
 
 [简体中文](README.md) | English
 
+## Android 2.2.2
+
+The Android app is now at version 2.2.2, with a complete monthly calendar, automatic saving for daily edits, and an explicit batch attendance mode. See the [Android source](android-app/) and [Android 2.2.2 release](https://github.com/tukitohosi/lq-work-log/releases/tag/v2.2.2-android). The Windows release remains at 2.2.1.
+
 ## Overview
 
 L.Q Work Log is a fully offline Windows attendance and payroll tool for individuals and small teams. It tracks workers, daily attendance, overtime, leave, work sites, allowances, deductions, and settlement status, then produces monthly and yearly summaries together with Excel and print/PDF reports.

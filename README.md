@@ -4,6 +4,12 @@
 
 > 简明安装与使用说明见 [项目介绍与使用指南](项目介绍与使用指南.md)。
 
+## Android 2.2.2
+
+Android 手机版已更新到 2.2.2，提供适合手机的整月月历、当日自动保存和批量记工。源码在 [android-app/](android-app/)，安装包和校验文件见 [Android 2.2.2 Release](https://github.com/tukitohosi/lq-work-log/releases/tag/v2.2.2-android)。Windows 正式版仍为 2.2.1。
+
+
+
 L.Q记工本是一款完全离线的 Windows 工人出勤与工资记录工具。安装版自带运行环境，无需联网、账号或另装 Node.js；数据只写入本机。2.2.1 继承 2.2.0 的请假、工地成本统计、JSON 迁移、Excel、打印和 PDF 等能力，并修复桌面版偶发无法继续键盘编辑的问题。
 
 ## 2.2.1 修复
