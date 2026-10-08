@@ -1,8 +1,11 @@
-# v2.2.1 发布说明
+# L.Q记工本 Windows v2.2.1
 
-- 安装包：`L.Q记工本-2.2.1-Setup.exe`
-- SHA-256：`320D61734849BC58102CF3582C216110E0BA4BAFAB9414543C52EFA644FDADC8`
-- 平台：Windows x64
-- 签名：未签名
+本版本修复窗口重新打开后的键盘焦点、文本光标、取消关闭后无法继续编辑，以及保存队列等待的问题。继续支持请假、工地成本、日薪历史、JSON 迁移、Excel 和打印／PDF。
 
-本版本修复输入焦点、光标、关闭取消后编辑恢复以及保存队列边界，并完成本地 Electron 发布链、ASAR 指纹核验和桌面 smoke。干净 Windows 首装、2.2.0 升级、卸载和数据保留仍需单独验收。
+从 [v2.2.1 发布页](https://github.com/tukitohosi/lq-work-log/releases/tag/v2.2.1) 下载 LQ-Work-Log-2.2.1-Setup.exe，适用于 Windows x64。安装包自带运行环境。
+
+SHA-256：320D61734849BC58102CF3582C216110E0BA4BAFAB9414543C52EFA644FDADC8
+
+正式数据仍保存在当前用户的 AppData/Roaming/L.Q记工本/data。升级前可导出完整 JSON 备份。
+
+Android 当前版本为 [2.2.2](https://github.com/tukitohosi/lq-work-log/releases/tag/v2.2.2-android)。
